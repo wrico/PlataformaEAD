@@ -1,12 +1,12 @@
 # Semantic Commit Messages
 
-See how a minor change to your commit message style can make you a better programmer.
+Veja como uma pequena mudança em seu estilo de mensagem de commit pode torná-lo um programador melhor.
 
-Format: `<type>(<scope>): <subject>`
+Formato: `<type>(<scope>): <subject>`
 
-`<scope>` is optional
+`<scope>` é opcional
 
-## Example
+## Exemplo
 
 ```
 feat: add hat wobble
@@ -32,3 +32,4 @@ References:
 - https://www.conventionalcommits.org/
 - https://seesparkbox.com/foundry/semantic_commit_messages
 - http://karma-runner.github.io/1.0/dev/git-commit-msg.html
+- https://www.git-scm.com/book/en/v2/Distributed-Git-Contributing-to-a-Project
